@@ -1,0 +1,13 @@
+.m-btn {
+    padding: .7rem .8rem;
+    border: 1px solid #cdcdcd;
+    text-decoration: none;
+    border-radius: 5px;
+    opacity: .8;
+    transition: 1s ease;
+}
+
+.m-btn:hover {
+    border-radius: 0px;
+    opacity: 1;
+}

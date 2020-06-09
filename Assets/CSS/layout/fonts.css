@@ -1,0 +1,15 @@
+.l-text-center {
+    text-align: center;
+}
+
+.l-text-justify {
+    text-align: justify;
+}
+
+.l-text-bold-600 {
+    font-weight: 600;
+}
+
+.l-text-bold-300 {
+    font-weight: 300;
+}

@@ -1,0 +1,28 @@
+.m-card {
+    width: 15%;
+    padding: 2rem 2.2rem;
+    margin: 10px;
+    min-height: 370px;
+}
+
+.m-card-img {
+    width: 100%;
+}
+
+.m-card-img img {
+    width: 100%;
+    opacity: .8;
+    transition: 1s ease;
+}
+
+.m-card-img img:hover {
+    transform: scale(1.1);
+    opacity: 1;
+}
+
+@media(max-width: 870px) {
+    .m-card-sm {
+        width: 25%;
+        min-height: 370px;
+    }
+}
